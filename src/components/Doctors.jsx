@@ -10,7 +10,7 @@ const Doctors = () => {
 
     const data = [
         {
-            img: "/src/assets/img/doc1.jpg",
+            img: "/src/assets/img/serena.jpg",
             name: "Dr. Serena Mitchell",
             specialties: "Orthopedic Surgeon",
         },
